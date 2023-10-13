@@ -4,7 +4,7 @@
 - [x] Readability
 - [ ] Bulbs
 - [ ] Caesar
-- [ ] Substitution
+- [x] Substitution
 - [x] Wordle50
 
 ## Description
