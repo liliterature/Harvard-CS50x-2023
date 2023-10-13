@@ -6,11 +6,6 @@
 - [ ] Caesar
 - [ ] Substitution
 - [x] Wordle50
-Submit one of:
-Bulbs, if feeling less comfortable
-Caesar, if feeling less comfortable
-Substitution, if feeling more comfortable
-Wordle50, if feeling more comfortable
 
 ## Description
 
