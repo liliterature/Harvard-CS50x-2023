@@ -15,6 +15,6 @@
 1. Submit one of:
    - [this version of Filter](https://cs50.harvard.edu/x/2023/psets/4/filter/less/) if feeling less comfortable
    - [this version of Filter](https://cs50.harvard.edu/x/2023/psets/4/filter/more/) if feeling more comfortable
-2. Submit one of：
+2. Submit one of:
    - [Recover](https://cs50.harvard.edu/x/2023/psets/4/recover/)
    - [Reverse](https://cs50.harvard.edu/x/2023/psets/4/reverse/)
