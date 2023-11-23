@@ -5,6 +5,7 @@
 - [x] Filter (Less)
 - [ ] Filter (More)
 - [x] Recover
+- [ ] Reverse
 
 ## Description
 
